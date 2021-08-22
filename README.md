@@ -1,0 +1,2 @@
+# microbit_Serial_communication_proessing_-attractor
+シリアル通信でアトラクター描けるなら、あなたなにを描きますか？
